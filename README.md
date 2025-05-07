@@ -6,9 +6,6 @@ If you're seeking a passionate and innovative developer who thrives on tackling 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valeriikovaliuk6&label=Profile%20views&color=0e75b6&style=flat" alt="valeriikovaliuk6" /> </p>
 
-
-![Profile Image](profile.jpg)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=jankozik&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
