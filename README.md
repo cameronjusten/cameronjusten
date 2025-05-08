@@ -4,8 +4,6 @@
 A SENIOR MOBILE DEVELOPER with extensive experience in designing, developing, and deploying high-quality mobile applications. My expertise spans cross-platform development using React Native and Flutter, iOS development using Swift and Objective-C, and Android development with Kotlin and Java. I have a strong background in building enterprise-level applications, working with state-of-the-art technologies and development practices such as CI/CD, code generation, testing, dependency injection, and MVC design patterns.
 If you're seeking a passionate and innovative developer who thrives on tackling challenging problems and bringing ideas to life through code, I'm excited to collaborate with you! 🌟
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valeriikovaliuk6&label=Profile%20views&color=0e75b6&style=flat" alt="valeriikovaliuk6" /> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=jankozik&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
