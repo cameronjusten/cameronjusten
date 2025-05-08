@@ -46,23 +46,6 @@ If you're seeking a passionate and innovative developer who thrives on tackling 
 <!-- <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code> -->
 <!-- <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> -->
 
-
-## Projects
-
-Here are a few projects I've worked on recently:
-
-1. **[Project Name 1](https://github.com/your-username/project-name1)** - Brief description of the project.
-2. **[Project Name 2](https://github.com/your-username/project-name2)** - Brief description of the project.
-3. **[Project Name 3](https://github.com/your-username/project-name3)** - Brief description of the project.
-
-![Working Animation](working.gif)
-
-## Get in Touch
-
-- **Email**: your_email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@your_twitter](https://twitter.com/your_twitter)
-
 Feel free to reach out if you want to collaborate on a project, or just want to connect!
 
 Thanks for visiting my profile, and happy coding!
